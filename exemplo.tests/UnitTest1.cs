@@ -1,6 +1,5 @@
-﻿using System.Reflection;
+﻿namespace exemplo.tests;
 
-namespace Tests;
 
 public class UnitTest1
 {
