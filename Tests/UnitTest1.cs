@@ -4,7 +4,7 @@ namespace Tests;
 
 public class UnitTest1
 {
-    [Fact]
+    [Fact] 
     public void TestSucesso()
     {
         Assert.True(true, "teste ok");
